@@ -6,3 +6,5 @@
 - [chapter 03 - 02 : 다중 회귀](https://github.com/jhu97/machine_learning/blob/main/books/Chapter03_02.ipynb)
 - [chapter 03 - 03 : 규제 선형 모델](https://github.com/jhu97/machine_learning/blob/main/books/Chapter03_3.ipynb)
 - [chapter 04 - 01 : 로지스틱 선형 회귀](https://github.com/jhu97/machine_learning/blob/main/books/Chapter04_01.ipynb)
+- [chapter 04 - 02 : 확률적 경사 하강법](https://github.com/jhu97/machine_learning/blob/main/books/Chapter04_2.ipynb)
+- [chapter 05 - 01 : 결정 트리](https://github.com/jhu97/machine_learning/blob/main/books/Chapter05_1.ipynb)
